@@ -14,6 +14,8 @@ cd /docker/gitlab
 git clone https://github.com/ldev1281/docker-compose-gitlab.git .
 ```
 
+
+
 ### 2. Create Docker Network and Set Up Reverse Proxy
 
 This project integrates with the reverse proxy configuration provided by [`docker-compose-proxy-client`](https://github.com/ldev1281/docker-compose-proxy-client). Follow these steps:
